@@ -1,7 +1,3 @@
-const models = require('../models');
-
-const { Picture } = models;
-
 const picturePage = (req, res) => {
   res.render('picture', { csrfToken: req.csrfToken() });
 };
