@@ -269,3 +269,13 @@ h3.domoToy {
 .domo:last-child {
     margin-bottom:10px;
 }
+
+#domoPics {
+  margin-top: 5%;
+  text-align: center;
+}
+
+#domoPic {
+  width: 40%;
+  border-radius: 50px;
+}
